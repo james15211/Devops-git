@@ -1,5 +1,5 @@
 HI i am file
-<<<<<<< HEAD
+HEAD
 Line modified by Feature 2
 =======
 Line modified by Feature 1
